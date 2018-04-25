@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1524648194 source:c:\users\mauro\desktop\vita online\programming\conversions\chartodouble\main.cpp
+	<iostream>
+	<string>
+	"StringtoDouble.h"
+
+1524649285 source:c:\users\mauro\desktop\vita online\programming\conversions\chartodouble\src\stringtodouble.cpp
+	"StringtoDouble.h"
+
+1524649068 c:\users\mauro\desktop\vita online\programming\conversions\chartodouble\include\stringtodouble.h
+	<string>
+	<inttypes.h>
+	"int_96.h"
+
+1524649635 c:\users\mauro\desktop\vita online\programming\conversions\chartodouble\include\int_96.h
+	<ostream>
+
+1524649647 source:c:\users\mauro\desktop\vita online\programming\conversions\chartodouble\src\int_96.cpp
+	"int_96.h"
+
